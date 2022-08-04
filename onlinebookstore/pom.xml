@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>onlinebookstore</groupId>
   <artifactId>Online</artifactId>
-  <version>Bookstore-sachin</version>
+  <version>Bookstore</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
